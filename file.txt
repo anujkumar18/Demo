@@ -1,7 +1,5 @@
 Change 1
 change 2
-<<<<<<< HEAD
 chnage3
-=======
 chnage 4
->>>>>>> child
+
