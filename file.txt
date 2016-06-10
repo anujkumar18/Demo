@@ -6,11 +6,8 @@ change 2
 changes 4 
 chnage 4
 git stash
-<<<<<<< HEAD
+
 
 git asd
-
-10-06-2016
-=======
 chnges by anuj
->>>>>>> release-0.1
+
